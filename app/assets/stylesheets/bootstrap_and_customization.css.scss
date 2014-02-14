@@ -6,4 +6,9 @@ $headings-color: #34495e;
 $text-color: #7f8c8d;
 $btn-default-bg: #34495e;
 $btn-default-color: white;
+
 @import 'bootstrap';
+
+.center {test-align: center;}
+
+.navbar-brand {font-weight: bold;}
